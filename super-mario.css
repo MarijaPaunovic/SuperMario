@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 850px;
+    height: 480px;
+    margin: 0 auto;
+    background: url('images/bg.jpg');
+    background-repeat: repeat-x;
+    background-size: contain;
+    overflow: hidden; 
+    position: relative;
+}
+img {
+    position: absolute;
+    width: 100px;
+    bottom: 80px;
+    left: 360px;
+}
+.marioRunning {
+    display: none;
+    width: 85px;
+}
+#marioCrouch {
+    height: 50px;
+}
+#marioJump {
+    bottom: 280px;
+}
+.musicButton {
+    margin-top: 2px;
+    width: 250px;
+    display: flex;
+}
+.author-container {
+    width: 850px;
+    height: 50px;
+    margin: 0 auto;
+    display: flex;
+}
+.title-exercise {
+    margin: 0 auto;
+    text-align: center;
+}
+.author-name {
+    font-size: 0.9rem;
+    text-align: right;
+}
