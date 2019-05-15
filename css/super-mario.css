@@ -7,7 +7,7 @@
     width: 850px;
     height: 480px;
     margin: 0 auto;
-    background: url('images/bg.jpg');
+    background: url('../images/bg.jpg');
     background-repeat: repeat-x;
     background-size: contain;
     overflow: hidden; 
