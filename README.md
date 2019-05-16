@@ -1,4 +1,4 @@
-#Super Mario Emulator
+# Super Mario Emulator
 
 Simple Super Mario Emulator
 
